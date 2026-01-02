@@ -1,4 +1,4 @@
-name: restic
+name: capruro-restic
 base: core24
 version: "0.18.1"
 # https://github.com/snapcore/snapd/blob/master/spdx/licenses.go
